@@ -1,1 +1,1 @@
-Projeto realizado com base em copiar o comportamento da proteção de tela dos antigos DVD players utilizando python e pygame 
+Projeto realizado com base em copiar o comportamento da proteção de tela dos antigos DVD players utilizando python com pygame 
